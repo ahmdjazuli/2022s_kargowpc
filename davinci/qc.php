@@ -61,8 +61,6 @@
             <div class="card">
               <div class="card-header">
                 <h2 style="display:inline;">Quality Check</h2>
-                <button style="float: right;margin-left: 5px" class="btn btn-primary" type="button" data-toggle="tooltip" data-placement="bottom" title="Tambah"><a href="qc_input.php" class="text-white"><i class="fas fa-folder-plus"></i></a>
-                </button>
                 <button style="float: right" class="btn btn-primary" type="button" data-toggle="modal" data-target="#modal-sm" title="Cetak"><i class="fas fa-file-pdf"></i></button>
               </div>
               <!-- /.card-header -->
